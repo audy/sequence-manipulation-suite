@@ -1,4 +1,10 @@
-The Sequence Manipulation Suite
+# The Sequence Manipulation Suite
+
+https://sites.ualberta.ca/~stothard/javascript/mirror.html
+
+Everything after the first commit is a fork.
+
+## License
 
 Copyright (C) 2000, 2004 Paul Stothard
 
